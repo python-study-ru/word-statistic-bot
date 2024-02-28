@@ -1,0 +1,1 @@
+print("nikozdev davit kris")
